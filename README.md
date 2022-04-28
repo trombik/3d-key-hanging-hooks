@@ -4,4 +4,4 @@ Hanging hooks.
 
 ## Screenshot
 
-![Screenshot of the hook](screenshot.png")
+![Screenshot of the hook](screenshot.png)
